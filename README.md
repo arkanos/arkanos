@@ -1,4 +1,4 @@
-### Hey, you! You're awesome!
+### HEY, YOU'RE AWESOME!
 
 Welcome to my Github profile. Feel free to take a look and to clone & play (what is life without fun?) with all my public repositories.
 
@@ -13,6 +13,7 @@ I'm always open to accept changes, receive positive feedback and collaborate.
 - ⚡ Fun fact: I used to moderate 89 Twitch channels
 - 🍕 Favorite food: Pizza (ofc) 
 
-♥ Do you like what I do?
+## ♥ Do you like what I do?
 
-<a href="https://www.buymeacoffee.com/rubendr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/rubendr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150" height="40"></a>
+
