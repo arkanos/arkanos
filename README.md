@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hey, you! You're awesome!
 
-<!--
-**arkanos/arkanos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Github profile. Feel free to take a look and to clone & play (what is life without fun?) with all my public repositories.
 
-Here are some ideas to get you started:
+I'm always open to accept changes, receive positive feedback and collaborate.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Wanna know more?
+
+- 🔭 I’m currently working on: my own Unreal Engine Game for mobile (an ARPG kinda)
+- 🌱 I’m currently learning: Unreal Engine
+- 🤔 I’m looking for help with: Unreal Engine
+- 💬 Ask me about: React, JavaScript, NodeJS, Vue
+- ⚡ Fun fact: I used to moderate 89 Twitch channels
+- 🍕 Favorite food: Pizza (ofc) 
+
+♥ Do you like what I do?
+
+<a href="https://www.buymeacoffee.com/rubendr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
