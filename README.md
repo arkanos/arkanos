@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=arkanos&color=blue)
+
 ### HEY, YOU'RE AWESOME!
 
 Welcome to my Github profile. Feel free to take a look and to clone & play (what is life without fun?) with all my public repositories.
@@ -17,3 +19,6 @@ I'm always open to accept changes, receive positive feedback and collaborate.
 
 <a href="https://www.buymeacoffee.com/rubendr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150" height="40"></a>
 
+
+
+![Arkano's GitHub stats](https://github-readme-stats.vercel.app/api?username=arkanos&show_icons=true&theme=radical)
