@@ -11,7 +11,7 @@ I'm always open to accept changes, receive positive feedback and collaborate.
 - 🔭 I’m currently working on: my own Unreal Engine Game for mobile (an ARPG kinda)
 - 🌱 I’m currently learning: Unreal Engine
 - 🤔 I’m looking for help with: Unreal Engine
-- 💬 Ask me about: React, JavaScript, NodeJS, Vue
+- 💬 Ask me about: React, JavaScript, NodeJS
 - ⚡ Fun fact: I used to moderate 89 Twitch channels
 - 🍕 Favorite food: Pizza (ofc) 
 
